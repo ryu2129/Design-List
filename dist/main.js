@@ -1,0 +1,1 @@
+!function(){"use strict";var n;n="こんにちは、世界 !",document.body.innerHTML=n,console.log(n)}();
